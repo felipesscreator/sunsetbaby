@@ -38,7 +38,7 @@ export default function Home() {
           >
             <img src="youtube.svg" className="w-10 rounded-full" />
             <h1 className="mx-auto flex justify-center font-bold text-white">
-              Youtube (500 comentário e o som sai no Spotify)
+              Vários Contrato 🎵 (500 comentários e o som sai no Spotify)
             </h1>
           </a>
         </div>
