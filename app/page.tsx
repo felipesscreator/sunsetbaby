@@ -1,9 +1,9 @@
 export default function Home() {
   return (
-    <div className="flex h-screen bg-black p-4">
-      <div className="mx-auto flex w-full max-w-[580px] flex-col rounded-md bg-opacity-80 px-2 pt-10 md:bg-gray-900 md:shadow-[0_1px_5px_5px_rgba(0,0,0,0.1)] md:shadow-[#d4af3790]">
+    <div className="flex h-screen bg-[url('/bg.png')] p-2 md:py-10">
+      <div className="mx-auto flex w-full max-w-[580px] flex-col rounded-md bg-gray-900 bg-opacity-90 px-2 pt-10 md:px-4 md:shadow-[0_1px_5px_5px_rgba(0,0,0,0.1)] md:shadow-[#d4af3760]">
         <div className="flex flex-col items-center justify-center space-y-2">
-          <img src="sunset.jpg" className="w-24 rounded-full object-cover" />
+          <img src="sunset.jpg" className="w-32 rounded-full object-cover" />
           <h1 className="text-xl font-bold text-white">SUNSET BABY</h1>
           <p className="font-bold text-white">
             Artista Independente São Mateus - ZL
