@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="flex h-screen bg-[url('/bg.png')] p-2 md:py-10">
+    <div className="flex h-screen bg-[url('/bg.png')] bg-cover bg-center p-2 md:py-10">
       <div className="mx-auto flex w-full max-w-[580px] flex-col rounded-md bg-gray-900 bg-opacity-90 px-2 pt-10 md:px-4 md:shadow-[0_1px_5px_5px_rgba(0,0,0,0.1)] md:shadow-[#d4af3760]">
         <div className="flex flex-col items-center justify-center space-y-2">
           <img src="sunset.jpg" className="w-32 rounded-full object-cover" />
